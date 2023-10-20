@@ -6,8 +6,9 @@ public class cameraFolllow : MonoBehaviour
 {
     private Transform player;
     private Vector3 tempPos;
-    private float minX = -90, maxX = 90;
+    private float minX = -85, maxX = 85;
     private Vector3 offset;
+    
     
 
     // Start is called before the first frame update
